@@ -13,7 +13,7 @@ var isOver = false; // see whether game is ended
 var size = 3; //3x3 grid default
 var turns = 0;
 var toggle = true;
-var modeAI = true; // default AI mode on
+var modeAI = false; // default AI mode off
 
 var compMoves;
 var boardCheck;
